@@ -1,16 +1,61 @@
-### Hi there 👋
+## Felipe Felgueiras's GITHUB!
+Python Developer and technology student from São Paulo, Brasil.<br>
+Here you can find and check all my projects, studies files and more.
+<br>
+<hr>
 
-<!--
-**hamsety/hamsety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ABOUT ME:
 
-Here are some ideas to get you started:
+- 29 years old<br>
+- São Paulo, SP - Brazil <br>
+- 🧑‍🎓 Technology Student at Estacio - System Development Analysis (currently studying)<br> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+
+### HOW TO REACH ME:
+
+  <a href = "mailto:felipe.felgueiras1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-felgueiras-0784451a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<hr>
+
+### TECHNOLOGIES:
+
+<table style="text-align: center">        
+    <tr>
+          <th>HTML</th>
+          <th>CSS</th>
+          <th>Python</th>
+          
+   </tr>
+   <tr>    
+        <td><img align="center" alt="Renata-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
+        <td><img align="center" alt="Renata-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
+        <td><img align="center" alt="Renata-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>     
+        
+  </tr>
+</table>
+
+<hr>
+
+### MY STATS: <br>
+<section>  
+        <br>
+      <div align="center">
+        <a href="https://github.com/hamsety">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamsety&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsety&layout=compact&langs_count=7&theme=dark"/>
+      </div>  
+</section>
+  <hr>  
+  
+### PROFILE VISITS & GIT CONTRIBUTIONS :detective: <br><br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/hamsety/count.svg" />
+ </p>   
+<div align="center"> 
+ 
+  ![Snake animation](https://github.com/hamsety/hamsety/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>  
