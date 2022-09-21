@@ -1,5 +1,5 @@
 ## Felipe Felgueiras's GITHUB!
-Python Developer and technology student from São Paulo, Brasil.<br>
+Python Developer and technology student from São Paulo, Brazil.<br>
 Here you can find and check all my projects, studies files and more.
 <br>
 <hr>
