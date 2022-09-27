@@ -30,9 +30,9 @@ Here you can find and check all my projects, studies files and more.
           
    </tr>
    <tr>    
-        <td><img align="center" alt="Renata-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
-        <td><img align="center" alt="Renata-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
-        <td><img align="center" alt="Renata-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>     
+        <td><img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
+        <td><img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
+        <td><img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>     
         
   </tr>
 </table>
@@ -45,7 +45,7 @@ Here you can find and check all my projects, studies files and more.
       <div align="center">
         <a href="https://github.com/FelipeFelgueiras">
         <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=FelipeFelgueiras&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFelgueirasy&layout=compact&langs_count=7&theme=dark"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFelgueiras&layout=compact&langs_count=7&theme=dark"/>
       </div>  
 </section>
   <hr>  
