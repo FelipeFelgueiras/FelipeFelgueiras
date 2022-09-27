@@ -20,6 +20,7 @@ Here you can find and check all my projects, studies files and more.
 
 <hr>
 
+
 ### TECHNOLOGIES:
 
 <table style="text-align: center">        
@@ -27,13 +28,15 @@ Here you can find and check all my projects, studies files and more.
           <th>HTML</th>
           <th>CSS</th>
           <th>Python</th>
-          
+          <th>MySQL</th>
+      
    </tr>
    <tr>    
         <td><img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
         <td><img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
-        <td><img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>     
-        
+        <td><img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>          
+        <td><img align="center" alt="Felipe-mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></td>   
+
   </tr>
 </table>
 
@@ -44,8 +47,8 @@ Here you can find and check all my projects, studies files and more.
         <br>
       <div align="center">
         <a href="https://github.com/FelipeFelgueiras">
-        <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=FelipeFelgueiras&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFelgueiras&layout=compact&langs_count=7&theme=dark"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeFelgueiras&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFelgueiras&layout=compact&langs_count=7&theme=dracula"/>
       </div>  
 </section>
   <hr>  
@@ -54,8 +57,8 @@ Here you can find and check all my projects, studies files and more.
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/FelipeFelgueiras/count.svg" />
  </p>   
-<div align="center"> 
+<div align="center">  
  
-  ![Snake animation](https://github.com/FelipeFelgueiras/FelipeFelgueiras/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/thaylanne/thaylanne/blob/output/github-contribution-grid-snake.svg)
  
 </div>  
