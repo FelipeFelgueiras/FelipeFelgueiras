@@ -43,19 +43,19 @@ Here you can find and check all my projects, studies files and more.
 <section>  
         <br>
       <div align="center">
-        <a href="https://github.com/Felipe Felgueiras">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe Felgueiras&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe Felgueirasy&layout=compact&langs_count=7&theme=dark"/>
+        <a href="https://github.com/FelipeFelgueiras">
+        <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=FelipeFelgueiras&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFelgueirasy&layout=compact&langs_count=7&theme=dark"/>
       </div>  
 </section>
   <hr>  
   
 ### PROFILE VISITS & GIT CONTRIBUTIONS :detective: <br><br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Felipe Felgueiras/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/FelipeFelgueiras/count.svg" />
  </p>   
 <div align="center"> 
  
-  ![Snake animation](https://github.com/Felipe Felgueiras/Felipe Felgueiras/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/FelipeFelgueiras/FelipeFelgueiras/blob/output/github-contribution-grid-snake.svg)
  
 </div>  
