@@ -6,7 +6,7 @@ Here you can find and check all my projects, studies files and more.
 
 ### ABOUT ME:
 
-- 29 years old<br>
+- 30 years old<br>
 - São Paulo, SP - Brazil <br>
 - 🧑‍🎓 Technology Student at Estacio - System Development Analysis (currently studying)<br> 
 
