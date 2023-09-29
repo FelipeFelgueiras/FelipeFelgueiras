@@ -29,6 +29,7 @@ Here you can find and check all my projects, studies files and more.
           <th>CSS</th>
           <th>Python</th>
           <th>MySQL</th>
+          <th>JavaScript</th>
       
    </tr>
    <tr>    
