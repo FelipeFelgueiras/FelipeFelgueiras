@@ -62,14 +62,4 @@ Hi 👋, I'm Felipe! A passionate C# Developer from Brazil.
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFelgueiras&layout=compact&langs_count=7&theme=highcontrast"/>
       </div>  
 </section>
-  <hr>  
-  
-### PROFILE VISITS & GIT CONTRIBUTIONS :detective: <br><br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/FelipeFelgueiras/count.svg" />
- </p>   
-<div align="center">  
- 
-  ![Snake animation](https://github.com/thaylanne/thaylanne/blob/output/github-contribution-grid-snake.svg)
- 
-</div>  
+  <hr>
