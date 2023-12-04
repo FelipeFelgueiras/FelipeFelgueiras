@@ -14,7 +14,7 @@ Hi 👋, I'm Felipe! A passionate C# Developer from Brazil.
 
   - 🖥️ Technology Student at Estacio - System Development Analysis (currently studying).
 
-  - 🕹️ I love swimming, watching movies, playing video games and board games. I believe that our personal interests contribute to a more refined perception of things and problem-solving.
+  - 🕹️ I love to swim, watch movies, play video games and board games. I believe that our personal interests contribute to a more refined perception of things and problem-solving.
 </details>
 
 <hr>
