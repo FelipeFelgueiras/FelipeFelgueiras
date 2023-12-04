@@ -27,7 +27,7 @@ Here you can find and check all my projects, studies files and more.
     <tr>
           <th>HTML</th>
           <th>CSS</th>
-          <th>Python</th>
+          <th>C#</th>
           <th>MySQL</th>
           <th>JavaScript</th>
       
